@@ -14,7 +14,7 @@ const experiences = [
     color: "green",
   },
   {
-    role: "BIG Data & IA",
+    role: "Master en BIG Data & IA",
     company: "ESGIS BENIN",
     period: "2025 – présent",
     desc: "Analyse de données, modèles ML avec Python, TensorFlow et Pandas.",

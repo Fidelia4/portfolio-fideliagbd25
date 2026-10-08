@@ -79,7 +79,7 @@ const projects = [
     tags: ["React.js", "Tailwind CSS", "Vite", "Lucide React"],
     color: "green",
     icon: Sparkles,
-    link: null,
+    link: "https://fidelia-gbaguidi.netlify.app",
     company: "Projet Personnel",
   },
 ]
